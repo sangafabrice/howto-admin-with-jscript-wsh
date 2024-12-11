@@ -1,6 +1,6 @@
 /**
  * @file Launches the shortcut target PowerShell script with the selected markdown as an argument.
- * @version 0.0.1.24
+ * @version 0.0.1.25
  */
 
 // #region: utility constants and variables
